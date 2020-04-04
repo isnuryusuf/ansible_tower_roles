@@ -4,9 +4,3 @@
 [submodule "roles/octools"]
 	path = roles/octools
 	url = https://github.com/isnuryusuf/ansible-role-octools.git
-[submodule "role/soctools"]
-	path = role/soctools
-	url = https://github.com/isnuryusuf/ansible-role-octools
-[submodule "role/octools"]
-	path = role/octools
-	url = https://github.com/isnuryusuf/ansible-role-octools
